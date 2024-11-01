@@ -40,4 +40,4 @@ Once your internet connection is restored, there are steps you can take to recov
 
 While internet outages are often beyond your control, understanding their impact on SEO and implementing proactive measures can help minimize disruptions. By preparing for potential outages and responding effectively when they occur, you can protect your website's search engine ranking and user experience.
 
-For more insights on maintaining an effective online presence, visit [this resource](https://www.pythonanywhere.com/api/v0/user/dojoentertainment/schedule/).
+For more insights on maintaining an effective online presence, visit [this resource](https://seoblogtool.com/).
