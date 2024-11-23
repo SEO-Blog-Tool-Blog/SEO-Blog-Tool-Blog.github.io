@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Flying High with Blogging Tools: Elevate Your SEO Game with a Spirit Airlines Approach**
+title: Flying High with Blogging Tools - Elevate Your SEO Game with a Spirit Airlines Approach
 ---
 
 
