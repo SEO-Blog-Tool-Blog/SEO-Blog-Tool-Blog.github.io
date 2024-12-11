@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Mastering Digital Playbooks with Winning SEO Strategies**
+title: Mastering Digital Playbooks with Winning SEO Strategies
 ---
 
 
