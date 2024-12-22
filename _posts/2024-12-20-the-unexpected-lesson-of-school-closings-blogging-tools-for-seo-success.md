@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Unexpected Lesson of School Closings: Blogging Tools for SEO Success
+title: The Unexpected Lesson of School Closings - Blogging Tools for SEO Success
 ---
 
 
