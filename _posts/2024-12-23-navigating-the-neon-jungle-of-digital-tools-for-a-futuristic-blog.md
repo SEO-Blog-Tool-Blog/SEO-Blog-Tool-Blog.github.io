@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Navigating the Neon Jungle of Digital Tools for a Futuristic Blog**
+title: Navigating the Neon Jungle of Digital Tools for a Futuristic Blog
 ---
 
 
