@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Navigating the Neon Maze of Digital Content Creation**
+title: Navigating the Neon Maze of Digital Content Creation
 ---
 
 

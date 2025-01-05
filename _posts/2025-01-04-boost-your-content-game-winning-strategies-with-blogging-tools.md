@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boost Your Content Game: Winning Strategies with Blogging Tools
+title: Boost Your Content Game - Winning Strategies with Blogging Tools
 ---
 
 
