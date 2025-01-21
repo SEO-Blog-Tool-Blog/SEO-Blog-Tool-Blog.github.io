@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notre Dame Fighting Irish Football: Uncovering the Winning Playbook of SEO Blog Tools
+title: Notre Dame Fighting Irish Football Uncovering the Winning Playbook of SEO Blog Tools
 ---
 
 
