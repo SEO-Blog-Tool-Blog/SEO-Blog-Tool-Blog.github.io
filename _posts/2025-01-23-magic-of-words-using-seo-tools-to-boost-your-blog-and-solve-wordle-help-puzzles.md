@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magic of Words: Using SEO Tools to Boost Your Blog and Solve Wordle Help Puzzles
+title: Magic of Words Using SEO Tools to Boost Your Blog and Solve Wordle Help Puzzles
 ---
 
 
