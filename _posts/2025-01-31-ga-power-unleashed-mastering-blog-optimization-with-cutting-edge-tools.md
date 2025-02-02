@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ga Power Unleashed: Mastering Blog Optimization with Cutting-Edge Tools
+title: "Ga Power Unleashed: Mastering Blog Optimization with Cutting-Edge Tools"
 ---
 
 
